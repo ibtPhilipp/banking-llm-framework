@@ -1,0 +1,101 @@
+[
+  {
+    "section": "Organizational Capabilities",
+    "capability": "Strategic Leadership & Vision",
+    "questions": [
+      "To what extent is LLM adoption guided by a clearly articulated strategic vision from senior leadership?",
+      "How consistently are LLM initiatives aligned with broader digital transformation objectives?",
+      "Is there an established process for sensing, evaluating, and responding to emerging LLM opportunities?"
+    ]
+  },
+  {
+    "section": "Organizational Capabilities",
+    "capability": "Talent & Skills",
+    "questions": [
+      "Does the bank have in-house expertise in LLM development, integration, and risk management?",
+      "Are training and reskilling programs in place to prepare staff for LLM-enabled workflows?",
+      "To what extent are cross functional teams empowered to innovate, validate, and scale LLM solutions?"
+    ]
+  },
+  {
+    "section": "Organizational Capabilities",
+    "capability": "Culture & Change Management",
+    "questions": [
+      "How receptive is the organizational culture to adopting LLM-based systems?",
+      "Are structured management processes in place to support LLM integration across business units?",
+      "To what extent are employees actively engaged in LLM-related initiatives and transformation?"
+    ]
+  },
+  {
+    "section": "Organizational Capabilities",
+    "capability": "Governance & Risk Management",
+    "questions": [
+      "Are there defined roles and responsibilities for governing LLM use within the bank?",
+      "To what extent are model risks (e.g., biases) systematically assessed and mitigated?",
+      "How comprehensively are LLM activities documented, audited, and aligned with risk policies?"
+    ]
+  },
+  {
+    "section": "Contextual Capabilities",
+    "capability": "Regulatory Alignment",
+    "questions": [
+      "Is the bank systematically assessing LLM use cases against applicable regulatory requirements (e.g., GDPR)?",
+      "Are regulatory safeguards such as explainability and human oversight embedded in LLM systems?",
+      "How actively does the bank engage with regulators or industry bodies on LLM governance issues?"
+    ]
+  },
+  {
+    "section": "Contextual Capabilities",
+    "capability": "Trust & Communication",
+    "questions": [
+      "How effectively does the bank communicate the purpose, limitations, and safeguards of LLM usage to internal and external stakeholders?",
+      "Are mechanisms such as explainability, transparency, and user control consistently implemented?",
+      "To what extent are trust-related concerns (e.g., algorithm aversion, perceived autonomy) actively managed?"
+    ]
+  },
+  {
+    "section": "Contextual Capabilities",
+    "capability": "Technological & Competitive Environment Responsieness",
+    "questions": [
+      "How rapidly can the bank scale or adapt LLM systems in response to competitive or technological shifts?",
+      "Are LLM investments and architectures aligned with evolving platform ecosystems and open banking trends?",
+      "To what extent are decisions about LLM exploration and exploitation guided by strategic foresight and market monitoring?"
+    ]
+  },
+  {
+    "section": "Technical Capabilities",
+    "capability": "Data Governance & Management",
+    "questions": [
+      "How consistently are data quality, integrity, and provenance assured across LLM use?",
+      "Are there formal processes for data access, anonymization, and data governance for LLM-relevant datasets?",
+      "To what extent are unstructured data assets (e.g., documents, chat logs) effectively leveraged for LLM use?"
+    ]
+  },
+  {
+    "section": "Technical Capabilities",
+    "capability": "Technology Architecture & Integration",
+    "questions": [
+      "Is the existing LLM architecture modular, scalable, and compatible with secure LLM integration?",
+      "To what extent are LLMs integrated with core systems via standardized APIs and middleware?",
+      "Are architectural decisions guided by governance, performance, explainability, and resilience requirements?"
+    ]
+  },
+  {
+    "section": "Technical Capabilities",
+    "capability": "LLMOps & Monitoring",
+    "questions": [
+      "Are there established continuous integration/continuous deployment pipelines and monitoring systems tailored for LLM deployment and updates?",
+      "How effectively are performance, safety, and compliance issues detected and addressed post-deployment?",
+      "Are prompts, data sources, and LLM behaviors versioned, audited, and continuously evaluated?"
+    ]
+  },
+  {
+    "section": "Technical Capabilities",
+    "capability": "Cybersecurity & Privacy",
+    "questions": [
+      "Are LLM systems protected against data leakage, adversarial attacks, and misuse across the lifecycle?",
+      "To what extent are privacy-preserving techniques (e.g., pseudonymization) adopted?",
+      "Is there a comprehensive security governance model covering LLM access, audit, and incident response?"
+    ]
+  }
+]

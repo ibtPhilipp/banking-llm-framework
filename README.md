@@ -1,12 +1,5 @@
-# React + Vite
+# Accessing the Untapped Potential of Large Language Models in Banking: A Capability Readiness Framework
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This paper offers a novel capability-based framework to assess organizational readiness for deploying large language models (LLMs) in the banking sector. While LLMs offer significant potential across domains such as customer service, compliance, and risk assessment, banks face unique deployment challenges due to regulatory constraints, legacy systems, and data sensitivity. Building on the dynamic capability view and adapting maturity levels from the Capability Maturity Model Integration (CMMI), the framework identifies and structures the organizational, contextual, and technical capabilities necessary for effective LLM deployment. It introduces a maturity-scaled self-assessment tool that enables banks to evaluate their current LLM readiness, diagnose capability gaps, and guide strategic investment decisions. Although developed for banking, the framework offers conceptual relevance to other high-stakes, highly regulated sectors.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+This project folder contains the self-assessment tool built on Vite and shadcn/ui.
